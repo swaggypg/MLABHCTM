@@ -1,6 +1,6 @@
 # MLABHCTM
 
-This is the code repository for the unpublished paper titled "Multi-Level Augmentation Boosts Hybrid CNN-Transformer Model for Semi-Supervised Cardiac MRI Segmentation." 
+This is the code repository for the paper titled "Multi-Level Augmentation Boosts Hybrid CNN-Transformer Model for Semi-Supervised Cardiac MRI Segmentation." 
 
 # Reference
 
